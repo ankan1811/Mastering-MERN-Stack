@@ -1,4 +1,4 @@
-Code for MERN tutorial.
+Code for Mastering MERN Stack.
 
 Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
 
